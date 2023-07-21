@@ -1,0 +1,54 @@
+.btn {
+    color: #f35cf3;
+    font-size: 15px;
+    background-color: black;
+    height: 50px;
+    width: 300px;
+}
+
+.tab {
+    display: flex;
+    height: 30px;
+    width: 350px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.text {
+    color: purple;
+    font-size: 50px;
+}
+
+.task2 {
+    display: flex;
+    justify-content: center;
+    background-color: #3b6f85;
+    height: 150px;
+    width: 600px;
+    border-radius: 70px;
+}
+
+.task2 div {
+    display: flex;
+    margin-top: 15px;
+    margin-left: 60px;
+    height: 120px;
+    width: 120px;
+    border-radius: 100px;
+    background-color: white;
+}
+div p {
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    margin-left: 10px;
+}
+/*.circle1 {*/
+/*    background-color: white;*/
+/*}*/
+/*.circle2 {*/
+/*    background-color: white;*/
+/*}*/
+/*.circle3 {*/
+/*    background-color: green;*/
+/*}*/
